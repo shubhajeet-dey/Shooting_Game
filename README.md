@@ -1,5 +1,7 @@
 # Shooting_Game
-A simple one level game made with Unity 3D. 
+A simple game made with Unity 3D. 
+
+Move around by WASD and shoot by SPACE.
 
 It has three different type of boxes:
 1. Green box for points.
